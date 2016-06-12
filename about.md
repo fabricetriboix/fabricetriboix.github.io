@@ -3,13 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+My name is Fabrice Triboix. I am a software engineer, and I worked on many
+roles, including software developer, team leader, release manager, and
+DevOps.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I worked on a wide variety of projects, from writing interrupt
+handler in assembler to python scripting, with a lot of C and C++ in
+between, with a emphasis on embedded software, networking application
+and Linux.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+For a fuller view of my experiences and skills, please refer to my
+[linkedin page](https://www.linkedin.com/in/ftriboix).
