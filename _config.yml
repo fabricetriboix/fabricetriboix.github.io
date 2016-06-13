@@ -11,7 +11,7 @@ email: ftriboix@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a blog about software engineering, development
   processes, best practices and anything
-  that helps to produce software that works and delights clients.
+  that helps to produce working software that delights clients.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fabricetriboix.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
