@@ -42,7 +42,7 @@ counter-productive discussions/fights are avoided.
 At the end of the day, the goal of a software project is to deliver a
 software that works for the client, on time and on budget. It is not to
 create a piece of art the painters of code would refine ad vitam
-eternam, pursing the quest of modelling the pinnacle of code elegance.
+eternam, pursuing the quest of modelling the pinnacle of code elegance.
 So coming back to having developers with the "right mindset", that
 essentially means people willing to accept to bend their personal
 preferences for the sake of producing software that makes the client
