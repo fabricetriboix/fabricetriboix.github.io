@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why bother with coding standards?"
+title:  "Are coding standards stifling the creativity of developers?"
 date:   2016-08-10 20:31:00 +0100
 categories: coding-standards
 ---
@@ -51,3 +51,7 @@ as part of a team, high-quality software software that works for the
 client. They will put aside their thirst for intricate artistry, perfect
 only according to their taste.
 
+I would therefore argue that applying coding standards free up
+developers from many worries, and enable them to apply their creativity
+to solve real problems, problems that matter for your client and the
+productivity of the enterprise.
