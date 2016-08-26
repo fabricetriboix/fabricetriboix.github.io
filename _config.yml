@@ -19,3 +19,6 @@ github_username: fabricetriboix
 
 # Build settings
 markdown: kramdown
+
+# Google services
+google_analytics: UA-83214072-1
