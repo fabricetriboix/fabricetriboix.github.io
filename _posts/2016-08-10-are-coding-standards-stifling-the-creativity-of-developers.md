@@ -4,6 +4,9 @@ title:  "Are coding standards stifling the creativity of developers?"
 date:   2016-08-10 20:31:00 +0100
 categories: coding-standards
 ---
+
+![Tied employee](/_posts/tied_employee_small.jpg)
+
 Why should you use coding standards in your project? At a first glance,
 they may look like a bureaucratic reminiscence of authoritarianism,
 stifling the creativity of coders, ruining the motivation of developers!
