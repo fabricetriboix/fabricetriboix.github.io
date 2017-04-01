@@ -2,7 +2,7 @@
 layout: post
 title:  "Are coding standards stifling the creativity of developers?"
 date:   2016-08-10 20:31:00 +0100
-categories: coding-standards
+categories: coding-standards software-engineering
 ---
 
 ![Tied employee](/_posts/tied_employee_small.jpg)
