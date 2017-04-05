@@ -62,9 +62,9 @@ long-term pain (poor quality software, angry clients, loss of business)
 is for [toddlers who will eat one marshmallow now instead of two
 later](https://www.youtube.com/watch?v=Yo4WF3cSd9Q).
 
-So in conclusion, it could be the case that a complex software might not be
-bug-free, but at least it can be free of ANY KNOWN bug. If you have an
-extensive test suite, not tolerating any bug will make a world of
-difference between "acceptable" software that is still crashes under
+So in conclusion, it could be the case that a complex software might not
+be bug-free, but at least it can be free of **any known** bug. If you
+have an extensive test suite, not tolerating any bug will make a world
+of difference between "acceptable" software that is still crashes under
 vague, uncertain and unclear circumstances, and outstanding software
 that the client can't manage to break despite its best efforts!
