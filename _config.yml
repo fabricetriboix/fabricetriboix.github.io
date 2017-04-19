@@ -6,12 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Musings on Software Engineering
+title: The Business of Software Engineering
 email: ftriboix@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a blog about software engineering, development
-  processes, best practices and anything
-  that helps to produce working software that delights clients.
+  This blog is about a subject that I think is overlooked too many times:
+  How technical decisions at software engineering level impact the
+  long-term profitability of a business? Often, managers are clueless
+  about the technical aspects of software engineering, and technical
+  people either don't care about the business or are often unaware of how
+  their work can have an indirect but very tangible impact, either
+  positive or negative, on the business that employs them.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fabricetriboix.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
